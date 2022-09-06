@@ -1,4 +1,4 @@
-# *Welcome to Constellation**
+# **Welcome to Constellation**
 Constellation is a solo Discord bot made by Sam, most commonly known as samster. Constellation is a Discord bot that satisfies all of your needs for making your server more enjoyable, safe, and unique. 
 > By offering top-notch, cutting-edge service that has never been seen before, we hope to enter into a new age of Discord bots. Constellation has a fixed route, and it will be fulfilled.
 
